@@ -1,0 +1,447 @@
+2026-01-01 12:04:45 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:04:45 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:06:03 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:06:03 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:09:14 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:09:15 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:13:50 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:13:50 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:13:50 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:13:50 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:13:50 INFO  Log:11 - Password entered
+2026-01-01 12:13:50 INFO  Log:11 - Password entered
+2026-01-01 12:13:51 INFO  Log:11 - Login button clicked
+2026-01-01 12:13:51 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:13:51 INFO  Log:11 - Login button clicked
+2026-01-01 12:13:51 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:19:06 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:19:06 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:19:06 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:19:06 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:19:06 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:19:07 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:19:07 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:19:07 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:19:07 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:19:07 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:19:07 INFO  Log:11 - Product added to cart
+2026-01-01 12:19:07 INFO  Log:11 - Product added to cart
+2026-01-01 12:19:07 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 12:19:07 INFO  Log:11 - Password entered
+2026-01-01 12:19:07 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:19:07 INFO  Log:11 - Password entered
+2026-01-01 12:19:07 INFO  Log:11 - Login button clicked
+2026-01-01 12:19:07 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:19:08 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:19:08 INFO  Log:11 - Login button clicked
+2026-01-01 12:19:08 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:24:31 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:24:31 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:24:32 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:24:32 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:24:32 INFO  Log:11 - Password entered
+2026-01-01 12:24:32 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:24:32 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:24:32 INFO  Log:11 - Login button clicked
+2026-01-01 12:24:32 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:24:32 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:24:32 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 12:24:33 INFO  Log:11 - Password entered
+2026-01-01 12:24:33 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:24:33 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:24:33 INFO  Log:11 - Login button clicked
+2026-01-01 12:24:33 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:24:33 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:24:33 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:24:33 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:24:33 INFO  Log:11 - Product added to cart
+2026-01-01 12:24:33 INFO  Log:11 - Product added to cart
+2026-01-01 12:27:08 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:27:08 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:27:08 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:08 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:27:09 INFO  Log:11 - Password entered
+2026-01-01 12:27:09 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:09 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:27:09 INFO  Log:11 - Login button clicked
+2026-01-01 12:27:09 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:27:09 INFO  Log:11 - Password entered
+2026-01-01 12:27:09 INFO  Log:11 - Product added to cart
+2026-01-01 12:27:09 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:27:09 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:27:09 INFO  Log:11 - Login button clicked
+2026-01-01 12:27:09 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:27:09 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:27:10 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:10 INFO  Log:11 - Product added to cart
+2026-01-01 12:27:10 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:27:10 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:27:10 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:27:29 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:27:29 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:27:29 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:30 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:27:30 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:27:30 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:27:30 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:27:30 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:27:30 INFO  Log:11 - Password entered
+2026-01-01 12:27:30 INFO  Log:11 - Password entered
+2026-01-01 12:27:31 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:31 INFO  Log:11 - Login button clicked
+2026-01-01 12:27:31 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:27:31 INFO  Log:11 - Product added to cart
+2026-01-01 12:27:31 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:27:31 INFO  Log:11 - Login button clicked
+2026-01-01 12:27:31 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:27:31 INFO  Log:11 - Product added to cart
+2026-01-01 12:27:31 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:27:31 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:27:31 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:34:48 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:34:48 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:34:49 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:34:49 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:34:49 INFO  Log:11 - Password entered
+2026-01-01 12:34:49 INFO  Log:11 - Password entered
+2026-01-01 12:34:49 INFO  Log:11 - Product added to cart
+2026-01-01 12:34:49 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:34:49 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:34:49 INFO  Log:11 - Login button clicked
+2026-01-01 12:34:49 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:34:49 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:34:49 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:34:50 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:34:50 INFO  Log:11 - Login button clicked
+2026-01-01 12:34:50 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:34:50 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:34:50 INFO  Log:11 - Product added to cart
+2026-01-01 12:34:50 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:34:50 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:34:50 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:36:43 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:36:43 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:36:43 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:36:43 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:36:44 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:36:44 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:36:44 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:36:44 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:36:44 INFO  Log:11 - Password entered
+2026-01-01 12:36:44 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:36:44 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:36:44 INFO  Log:11 - Login button clicked
+2026-01-01 12:36:44 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:36:45 INFO  Log:11 - Product added to cart
+2026-01-01 12:36:45 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:36:45 INFO  Log:11 - Product added to cart
+2026-01-01 12:36:45 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 12:36:45 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 12:40:00 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:40:00 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:40:01 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:40:01 INFO  Log:11 - Password entered
+2026-01-01 12:40:01 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:40:01 INFO  Log:11 - Login button clicked
+2026-01-01 12:40:01 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:40:01 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:40:02 INFO  Log:11 - Password entered
+2026-01-01 12:40:02 INFO  Log:11 - Product added to cart
+2026-01-01 12:40:02 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:40:02 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:40:02 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:40:02 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:40:02 INFO  Log:11 - Login button clicked
+2026-01-01 12:40:02 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:40:02 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:40:02 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 12:40:02 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:40:02 INFO  Log:11 - Product added to cart
+2026-01-01 12:40:02 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:40:02 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:40:03 INFO  Log:11 - Checkout information entered
+2026-01-01 12:40:03 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:40:03 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:40:03 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:40:03 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 12:40:03 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 12:40:03 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 12:40:03 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:40:03 INFO  Log:11 - Order placed successfully
+2026-01-01 12:40:03 INFO  Log:11 - Checkout information entered
+2026-01-01 12:40:03 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:40:03 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:40:03 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 12:53:34 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:53:34 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:53:35 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:53:35 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:53:35 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:53:35 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:53:35 INFO  Log:11 - Password entered
+2026-01-01 12:53:35 INFO  Log:11 - Password entered
+2026-01-01 12:53:35 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:53:36 INFO  Log:11 - Login button clicked
+2026-01-01 12:53:36 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:53:36 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:53:36 INFO  Log:11 - Login button clicked
+2026-01-01 12:53:36 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:53:36 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:53:36 INFO  Log:11 - Product added to cart
+2026-01-01 12:53:36 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:53:37 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:53:37 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:53:37 INFO  Log:11 - Product added to cart
+2026-01-01 12:53:37 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:53:37 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:53:37 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 12:53:37 INFO  Log:11 - Checkout information entered
+2026-01-01 12:53:37 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:53:37 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:53:37 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 12:53:37 INFO  Log:11 - Checkout information entered
+2026-01-01 12:53:38 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:53:38 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 12:53:38 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:53:38 INFO  Log:11 - Order placed successfully
+2026-01-01 12:55:52 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:55:52 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 12:55:52 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:55:52 INFO  Log:11 - Product added to cart
+2026-01-01 12:55:52 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:55:52 INFO  Log:11 - User added one product to the cart
+2026-01-01 12:55:52 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:55:53 INFO  Log:11 - Username entered: standard_user
+2026-01-01 12:55:53 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 12:55:53 INFO  Log:11 - User already has products in the cart
+2026-01-01 12:55:53 INFO  Log:11 - Product added to cart
+2026-01-01 12:55:53 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:55:53 INFO  Log:11 - Password entered
+2026-01-01 12:55:53 INFO  Log:11 - Login button clicked
+2026-01-01 12:55:53 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 12:55:53 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 12:55:54 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 12:55:54 INFO  Log:11 - Password entered
+2026-01-01 12:55:54 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 12:55:54 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 12:55:54 INFO  Log:11 - Login button clicked
+2026-01-01 12:55:54 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 12:55:54 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 12:55:54 INFO  Log:11 - Checkout information entered
+2026-01-01 12:55:54 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:55:54 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 12:55:54 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:55:54 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 12:55:54 INFO  Log:11 - Order placed successfully
+2026-01-01 12:55:54 INFO  Log:11 - Checkout information entered
+2026-01-01 12:55:54 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 12:55:54 INFO  Log:11 - User navigated to Cart page
+2026-01-01 12:55:54 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 12:55:55 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 12:55:55 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:00:30 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:00:30 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:00:30 INFO  Log:11 - Product added to cart
+2026-01-01 13:00:30 INFO  Log:11 - Product added to cart
+2026-01-01 13:00:30 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:00:30 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:00:30 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:00:30 INFO  Log:11 - Password entered
+2026-01-01 13:00:30 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:00:30 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:00:30 INFO  Log:11 - Login button clicked
+2026-01-01 13:00:30 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:00:31 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:00:31 INFO  Log:11 - Password entered
+2026-01-01 13:00:31 INFO  Log:11 - Checkout information entered
+2026-01-01 13:00:31 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:00:31 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:00:31 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:00:31 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:00:31 INFO  Log:11 - Login button clicked
+2026-01-01 13:00:31 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:00:31 INFO  Log:11 - Checkout information entered
+2026-01-01 13:00:31 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:00:31 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 13:00:31 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 13:00:31 INFO  Log:11 - User added one product to the cart
+2026-01-01 13:00:31 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:00:31 INFO  Log:11 - Order placed successfully
+2026-01-01 13:00:31 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:00:31 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 13:00:31 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:00:31 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 13:01:25 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:01:25 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:01:26 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:01:26 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:01:27 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 13:01:27 INFO  Log:11 - Product added to cart
+2026-01-01 13:01:27 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:01:27 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 13:01:27 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:01:27 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:01:27 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:01:27 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:01:28 INFO  Log:11 - User added one product to the cart
+2026-01-01 13:01:28 INFO  Log:11 - Password entered
+2026-01-01 13:01:28 INFO  Log:11 - Password entered
+2026-01-01 13:01:28 INFO  Log:11 - Checkout information entered
+2026-01-01 13:01:28 INFO  Log:11 - Product added to cart
+2026-01-01 13:01:28 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:01:28 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:01:28 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:01:28 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:01:28 INFO  Log:11 - Login button clicked
+2026-01-01 13:01:28 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:01:28 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 13:01:28 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:01:28 INFO  Log:11 - Login button clicked
+2026-01-01 13:01:28 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:01:28 INFO  Log:11 - Checkout information entered
+2026-01-01 13:01:28 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:01:29 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 13:01:29 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:01:29 INFO  Log:11 - Order placed successfully
+2026-01-01 13:02:09 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:02:09 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:02:09 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:02:09 INFO  Log:11 - Product added to cart
+2026-01-01 13:02:09 INFO  Log:11 - Product added to cart
+2026-01-01 13:02:10 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:02:10 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:02:10 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 13:02:10 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 13:02:10 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:02:10 INFO  Log:11 - Checkout information entered
+2026-01-01 13:02:10 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:02:11 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:02:11 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:02:11 INFO  Log:11 - Password entered
+2026-01-01 13:02:11 INFO  Log:11 - Password entered
+2026-01-01 13:02:11 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:02:11 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:02:11 INFO  Log:11 - Checkout information entered
+2026-01-01 13:02:11 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:02:11 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 13:02:11 INFO  Log:11 - Login button clicked
+2026-01-01 13:02:11 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:02:11 INFO  Log:11 - Login button clicked
+2026-01-01 13:02:11 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:02:11 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:02:11 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:02:11 INFO  Log:11 - Order placed successfully
+2026-01-01 13:02:11 INFO  Log:11 - User added one product to the cart
+2026-01-01 13:02:11 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 13:02:11 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:02:11 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 13:02:11 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:02:11 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 13:03:15 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:03:15 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:03:17 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:03:17 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:03:17 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:03:17 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:03:17 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:03:17 INFO  Log:11 - User added one product to the cart
+2026-01-01 13:03:17 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 13:03:17 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 13:03:17 INFO  Log:11 - Password entered
+2026-01-01 13:03:17 INFO  Log:11 - Password entered
+2026-01-01 13:03:17 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:03:17 INFO  Log:11 - Product added to cart
+2026-01-01 13:03:17 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 13:03:17 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 13:03:18 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:03:18 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:03:18 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 13:03:18 INFO  Log:11 - Login button clicked
+2026-01-01 13:03:18 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:03:18 INFO  Log:11 - Login button clicked
+2026-01-01 13:03:18 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:03:18 INFO  Log:11 - Product added to cart
+2026-01-01 13:03:18 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:03:18 INFO  Log:11 - Checkout information entered
+2026-01-01 13:03:18 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:03:18 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 13:03:18 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:03:18 INFO  Log:11 - Order placed successfully
+2026-01-01 13:03:18 INFO  Log:11 - Checkout information entered
+2026-01-01 13:03:18 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:03:19 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:03:19 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:13:01 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:13:01 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:13:02 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:13:02 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:13:02 INFO  Log:11 - Password entered
+2026-01-01 13:13:02 INFO  Log:11 - Password entered
+2026-01-01 13:13:02 INFO  Log:11 - Login button clicked
+2026-01-01 13:13:02 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:13:02 INFO  Log:11 - Login button clicked
+2026-01-01 13:13:02 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:17:18 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:17:18 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:17:19 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:17:19 INFO  Log:11 - Password entered
+2026-01-01 13:17:19 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:17:19 INFO  Log:11 - Password entered
+2026-01-01 13:17:19 INFO  Log:11 - Login button clicked
+2026-01-01 13:17:19 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:17:19 INFO  Log:11 - Login button clicked
+2026-01-01 13:17:19 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:18:29 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:18:29 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:18:29 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:18:29 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:18:30 INFO  Log:11 - Password entered
+2026-01-01 13:18:30 INFO  Log:11 - Password entered
+2026-01-01 13:18:30 INFO  Log:11 - Login button clicked
+2026-01-01 13:18:30 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:18:30 INFO  Log:11 - Login button clicked
+2026-01-01 13:18:30 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:24:42 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:24:42 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:24:43 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:24:43 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:24:43 INFO  Log:11 - Password entered
+2026-01-01 13:24:43 INFO  Log:11 - Password entered
+2026-01-01 13:24:43 INFO  Log:11 - Login button clicked
+2026-01-01 13:24:43 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:24:43 INFO  Log:11 - Login button clicked
+2026-01-01 13:24:43 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:29:13 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:29:13 INFO  Log:11 - Test Case: Login test has started
+2026-01-01 13:29:13 INFO  Log:11 - Username entered: invalid_user
+2026-01-01 13:29:13 INFO  Log:11 - Username entered: standard_user
+2026-01-01 13:29:13 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:29:14 INFO  Log:11 - Password entered
+2026-01-01 13:29:14 INFO  Log:11 - Password entered
+2026-01-01 13:29:14 INFO  Log:11 - User clicked on Checkout button
+2026-01-01 13:29:14 INFO  Log:11 - User successfully navigated to Checkout page
+2026-01-01 13:29:15 INFO  Log:11 - Login button clicked
+2026-01-01 13:29:15 INFO  Log:11 - Error message displayed for invalid login
+2026-01-01 13:29:15 INFO  Log:11 - Product added to cart
+2026-01-01 13:29:15 INFO  Log:11 - Product added to cart
+2026-01-01 13:29:15 INFO  Log:11 - Login button clicked
+2026-01-01 13:29:15 INFO  Log:11 - User successfully logged in and redirected to inventory page
+2026-01-01 13:29:15 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:29:15 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:29:15 INFO  Log:11 - User logged in successfully and landed on Inventory page
+2026-01-01 13:29:15 INFO  Log:11 - Navigated to Checkout Information page
+2026-01-01 13:29:15 INFO  Log:11 - User added one product to the cart
+2026-01-01 13:29:16 INFO  Log:11 - User added multiple products to the cart
+2026-01-01 13:29:16 INFO  Log:11 - Checkout information entered
+2026-01-01 13:29:16 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:29:16 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:29:16 INFO  Log:11 - Cart contains 1 product as expected
+2026-01-01 13:29:16 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:29:16 INFO  Log:11 - Thank you message displayed on order completion page
+2026-01-01 13:29:16 INFO  Log:11 - Checkout information entered
+2026-01-01 13:29:16 INFO  Log:11 - User navigated to Cart page
+2026-01-01 13:29:16 INFO  Log:11 - User is on Checkout Overview page with items
+2026-01-01 13:29:16 INFO  Log:11 - Cart contains multiple products as expected
+2026-01-01 13:29:16 INFO  Log:11 - Checkout overview displays selected items
+2026-01-01 13:29:16 INFO  Log:11 - User clicked Finish to confirm order
+2026-01-01 13:29:16 INFO  Log:11 - Order placed successfully
